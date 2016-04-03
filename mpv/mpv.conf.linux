@@ -1,3 +1,6 @@
 hwdec=vdpau
-window-scale=0.650
+vo=opengl:backend=dxinterop
+autofit=900
+ontop
+screenshot-format=png
 osd-font-size=30
