@@ -1,5 +1,5 @@
 hwdec=vdpau
-vo=opengl:backend=dxinterop
+vo=opengl
 autofit=900
 ontop
 screenshot-format=png
