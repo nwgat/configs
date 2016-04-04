@@ -12,3 +12,6 @@ input.conf
 | d 	| Deinterlace 	|
 | ctrl + down 	| next playlist item 	|
 | ctrl + up 	| previous playlist item 	|
+
+mpv.conf
+enabled for hardware decoding on most systems via vdpau/dxva
