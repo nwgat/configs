@@ -1,0 +1,6 @@
+# removes warnings (color retangle)
+avoid_warnings=1
+
+# gives better picture quality
+echo "framebuffer_depth=32" >> config.txt
+echo "framebuffer_ignore_alpha=1" >> config.txt
