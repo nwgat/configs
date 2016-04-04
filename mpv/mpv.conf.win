@@ -1,5 +1,0 @@
-hwdec=dxva2-copy
-vo=opengl:backend=dxinterop
-autofit=900
-ontop
-screenshot-format=png
