@@ -1,4 +1,4 @@
-localhost {  
+{  
 root /home/rtorrent/ruTorrent
 basicauth / user pass  
 browse  
