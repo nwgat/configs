@@ -1,5 +1,5 @@
 localhost {  
-root /var/www  
+root /home/rtorrent/rutorrent
 basicauth / user pass  
 browse  
 markdown  
