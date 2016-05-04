@@ -1,5 +1,5 @@
 :80 {  
-root /home/rtorrent/ruTorrent
+root www
 basicauth / user pass  
 browse  
 markdown  
