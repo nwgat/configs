@@ -2,7 +2,7 @@
 just a collection of scripts and settings to make it easier to use mpv
 
 # shortcuts
-* arrow up = forward 1 min*
+* arrow up = forward 1 min
 * arrow down = backward 1 min
 * arrow right = forward 10 sec
 * arrow left = backward 10 sec
