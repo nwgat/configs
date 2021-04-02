@@ -1,5 +1,5 @@
 [Unit]
-Description=Live Encoder
+Description=Livego Server
 After=network.target
 StartLimitIntervalSec=0
 [Service]
@@ -7,8 +7,7 @@ Type=simple
 Restart=always
 RestartSec=1
 User=pi
-ExecStart=/usr/bin/bash /home/pi/live.sh                                                                                                                                                                        
+ExecStart=/home/pi/livego/livego                                                                                                                                                                       
 
 [Install]
 WantedBy=multi-user.target
-
